@@ -1,0 +1,17 @@
+# Scratch, logs, and temporary files
+scratch/
+*.bak
+*.tmp
+*.log
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
